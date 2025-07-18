@@ -2,7 +2,7 @@
 
 **Cyber Security Internship – Task 1**  
 🗓️ Completed on: 18 July 2025  
-👨‍💻 Created by: **Sheerahsec**
+👨‍💻 Created by: **Hareesh Kumar**
 
 ---
 
