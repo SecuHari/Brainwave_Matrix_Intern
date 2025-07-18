@@ -1,39 +1,35 @@
 # 🔐 Phishing Link Scanner using Python GUI
 
-This is my **Task 1 project** as a **Cyber Security Intern** at **Brainwave Matrix Solutions**.
+**Cyber Security Internship – Task 1**  
+🗓️ Completed on: 18 July 2025  
+👨‍💻 Created by: **Sheerahsec**
 
 ---
 
-## 📌 Objective
+## 🧠 Project Overview
 
-Create a front-end phishing URL detection tool using **Python (Tkinter GUI)** that checks whether a link is suspicious using:
-- Keyword matching
-- IP-based detection
-- Very short domain check
+This is a **Phishing Link Scanner** tool developed using **Python and Tkinter GUI**, as part of Task 1 in the Cyber Security Internship at **Brainwave Matrix Solutions**.
+
+It scans URLs and detects whether they are suspicious using:
+
+- ✅ Phishing keyword matching
+- ✅ IP-based URL detection
+- ✅ Short domain checks
+- ✅ Animated feedback in GUI
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 - Python 3
 - Tkinter (GUI)
-- re (Regex)
+- Regex (`re`)
 - tldextract
 
 ---
 
-## 🧪 Features
+## 🚀 How to Run
 
-- Detects suspicious phishing links using common red flags
-- GUI-based front-end (no CLI)
-- Simple and fast results
-- Typing animation in results
-- Educational and beginner-friendly
-
----
-
-## 💻 How to Run
-
+1. Install required package:
 ```bash
 pip install tldextract
-python main.py
